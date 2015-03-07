@@ -1,20 +1,35 @@
 body
 {
-font-size:75%;
-font-family:verdana,arial,'sans serif';
-background-image:url("http://bgfons.com/upload/wood%20_texture556.jpg");
-color:#000080;
-margin:10px;
+background-image:url("http://bgfons.com/upload/wood_texture3850.jpg");
 }
 
-h1 {font-size:400%;}
+h1 
+{
+	font-size:400%;
+}
 h2 {font-size:140%;}
 h3 {font-size:110%;}
 
-th {background-color:#ADD8E6;}
+.header-cont
+{
+	width:100%;
+	position:fixed;
+	top:0px;
+}
+.header
+{
+	height:50px;
+	border:1px solid #CCC;
+	background:#FFF;
+	margin:0px auto;
+	width:90%;
+}
 
-ul {list-style:circle;}
-ol {list-style:upper-roman;}
-
-a:link {color:#000080;}
-a:hover {color:red;}
+.content
+{
+	width: 80%;
+	height:9600px;
+	border: 1px solid #CCC;
+	background:#FFF;
+	margin: 70px auto;
+}
