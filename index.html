@@ -1,16 +1,35 @@
 <!DOCTYPE html>
 <html>
 <link rel="stylesheet" type="text/css" href="russellStyle.css" media="screen" />
+<head>
+	<script type="text/javascript" src="javascript.js"></script>
+</head>
 
 <body>
 <div class="header-cont">
+<script>
+$(window).scroll(function() {
+    if ($(window).scrollTop() > 400) {
+        $('.header').css("opacity", 1);
+    }
+    else{
+        $('.header').css("opacity", 0);
+    }
+});
+
+</script>
+
     <div class="header">
-        <table align="center">
+
+        <table align="center" >
             <tr>
-                <td>Home</td>
-                <td>Projects</td>
-                <td>Experience</td>
-                <td>Contact</td>
+                <td><h2>Home</h2></td>
+                <td><h3>|</h3></td>
+                <td><h2>Projects</h2></td>
+                <td><h3>|</h3></td>
+                <td><h2>Experience</h2></td>
+                <td><h3>|</h3></td>
+                <td><h2>Contact</h2></td>
             </tr>
         </table>
     
@@ -18,6 +37,9 @@
 </div>
 <div class="content"></div>
 </body>
+
+
+
 <footer>
 </footer>
 </html>
