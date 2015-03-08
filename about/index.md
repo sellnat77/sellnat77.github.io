@@ -1,12 +1,28 @@
 ---
 layout: page
-title: About Me
+title: Contact
 image:
   feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
 modified: 2014-12-24
 ---
 
-[Git @ Me!](http://github.com/sellnat77)
+
+
+
+
+
+
+
+
+
+
+
+
+# Russell Tan
+
+## Phone: (805) 796 - 7955
+
+## Email: Sell_nat@yahoo.com
+
+<center><img src="/images/Octocat.png"> <a href="http://github.com/sellnat77"><h2>Git @ Me!</h2></a></center>
