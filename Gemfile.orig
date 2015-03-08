@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+<<<<<<< HEAD
+
+gem 'jekyll'
+gem 'sass'
+gem 'octopress', '~> 3.0.0.rc.12'
+gem 'jekyll-sitemap'
+=======
+gem 'github-pages'
+>>>>>>> f9c127e2ca4af5287d8e4b80d2df5fda5e0e2608
