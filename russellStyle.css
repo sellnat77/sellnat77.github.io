@@ -1,0 +1,40 @@
+body
+{
+background-image:url("http://bgfons.com/upload/wood_texture3850.jpg");
+}
+
+h1 
+{
+	font-size:400%;
+}
+h2 {font-size:140%;}
+h3 {font-size:110%;}
+
+.header-cont
+{
+	width:100%;
+	position:fixed;
+	top:0px;
+}
+.header
+{
+	height:40px;
+	border:1px solid #CCC;
+	background:#FFF;
+	margin:0px auto;
+	width:90%;
+
+}
+
+.content
+{
+	width: 80%;
+	height:9600px;
+	border: 1px solid #CCC;
+	background:#FFF;
+	margin: 70px auto;
+}
+table, th, td
+{
+	margin-top:-20px;
+}
