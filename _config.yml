@@ -11,11 +11,11 @@ url: 		  //sellnat77.github.io
 owner:
   name:           Russell Tan
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "I am a git-loving computer scientist at CSULB"
   email:          sell_nat@yahoo.com
   # Social networking links used in footer. Update and remove as you like.       
   facebook:       
-  github: 	  //github.com/sellnat77         
+  github: 	  sellnat77         
   linkedin:       
 
 # Background image to be tiled on all pages
