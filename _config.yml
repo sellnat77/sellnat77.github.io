@@ -13,13 +13,13 @@ owner:
   avatar:         avatar.jpg
   bio:            "I am a git-loving computer scientist at CSULB"
   email:          sell_nat@yahoo.com
-  # Social networking links used in footer. Update and remove as you like.       
-  facebook:       
-  github: 	  sellnat77         
-  linkedin:       
+  # Social networking links used in footer. Update and remove as you like.
+  facebook:
+  github: 	  sellnat77
+  linkedin:
 
 # Background image to be tiled on all pages
-background: 	//bgfons.com/upload/wood_texture3850.jpg
+background:
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
